@@ -1,11 +1,11 @@
 # 译幕 (Zimoo)，原名：字幕组机翻小助手。
 
 ## 软件截图
-<img src="/image/2026-5-4.jpg" width='800px'>
+<img src="app/image/2026-5-4.jpg" width='800px'>
 
-<img src="/image/2026-5-4(2).jpg" width='800px'>
+<img src="app/image/2026-5-4(2).jpg" width='800px'>
 
-<img src="/image/2026-5-4(3).jpg" width='800px'>
+<img src="app/image/2026-5-4(3).jpg" width='800px'>
 
 
 ## [桌面版下载地址](https://zimoo.app/#/download)
